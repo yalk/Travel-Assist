@@ -308,9 +308,9 @@ ul.social li i.pin{
 	padding: 0px;
 }
 ul.social-slide li i{
-	width:290px;
+	width:70px;
 	height:74px;
-	background:url(../images/img-resources.png);
+	background:url(../images/img-resources.png)no-repeat;
 	display: inline-block;
 	margin:0px 15px;
 }
@@ -613,12 +613,12 @@ p.copyright span a:hover{
 		font-size: 14px;
 	}
 	ul.social-slide li i {
-		width: 290px;
+		width: 50px;
 		height: 54px;
 		background: url(../images/img-resources.png)no-repeat;
 		display: inline-block;
 		margin: 0px 15px;
-		background-size: 100%;
+		background-size: 400%;
 	}
 	ul.social-slide li i.win {
 		background-position: -3px 0px;
